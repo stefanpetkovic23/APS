@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "familyconnect-adf88",
+  "private_key_id": "02bae03c3ab74ad3c3b942cf965bf89cfa4cf2da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJWwApxJw5R/pn\nDmeHUtRfBI6nhQmMZ0smK1kOBUp4+b+iN6PMwpR7P8zCf5FPPKBB6C1nUk4GtrtV\njR8yo3WLrrl9uBh4VTFj0KfbvdLbH51j7HpTA+fPeH1XzHAQQBKtyrGQs+zwysrX\ntdKADivEsp48bDG+ixBCbxej3YkHCjwZ83Pd4r1TccS9c8Tpy3sIJf4IdqtKSzFI\n3r+xGhjDMtXy7QTJ0WKI3479xnWMWQ51sTfBYAKGN/yyozPjI5EAjCQ66WLytX9S\nWLlyf/JP8AEOhrZaKr5KSocfqajvsjbgoon83GkCFzW0136QMJJ0weFoHRfZbPQz\nunUpK8CzAgMBAAECggEASOxbL8VT6u7lgiNWXU0jOtJUs9jbr2zNa6JxW0GRSiTx\nQVezS/oAem6Nwrcesjq7s4LZxrypI4dUa1RzwwwuCwuZhC2DNzlrbMHpuQyTa+aU\nQtcnKh+U+a+ifYS95TS/Tw/EpSp0mnRnaB4igVwgf9lMs4dfsKl+lwDS5/bYpKJs\nWr1AghIOetOXHVqdlQINmAgEjOz2hwgJ4km4HKnPXUkqE/h1a4S1LCdG6pyFbN3L\nMo2prdrpb1bRjIm9g3VyRVfLGtVj6rxXEJNDAAfOX82LSSDB+rpXv9mOsjxQFtCE\nBK4MHcljkXkKmMAwOtyTyxJ8VDfPzzyNoSe5cWJVAQKBgQD076a9WFrAvajhf/zD\nu6g5h5T6LDi2p+6bjxjHPfTQZtN+UReZcy0vl7g2iuUkJdvlGaF64m+95XYozPPJ\nN/XkkymCwA2uej5V+l3dxpEvjEgNbdPU5lRKa/0xsd16m8IQWdFj0zURrqkKvorP\nvtzBT55r+e9eZS6wu7mkpXClgQKBgQDSc2YkpAb45crwBZY1YGc+KGAgs7mkTUyO\n4ky5NXDvBXdC3j0pze421lBaKjY2WHGIqKnXmmkFtkAbzVErjx1Csl7MCKR5SanN\ng764pahNyUE3Yy0i12BB0gOIGkXGr6dWb1MscRqYCr0QnV+O5CwWAVDlEPHqxt53\nQ98tlW7IMwKBgEN+QjkMvr07xeyVgwZAkKOBq9igFOSoM8Tj0pUcinhezUqSd+lN\n5palvRoyfd/PGt/vhyLAgMAYGc42Y7r/058vuhGQcHSytLima/UvwVQT2Mryh5uz\n+Gglh7iI5Znij8BHr75NNeNweJ5AUSnb0yLlmKbyUTZ2tT34DLjE6dyBAoGAUuwT\ngDZ9ZM8uolqhMBD3PT+teNU4PawTkW1Lq+KJyDSQJHHrCbDRvxu893oQeGNrANzs\nZz65SP3hztKcvBwc/G3J+n0hSYUj+g2CNcFYSqYVI1zZqRPSIr08lQE9IyeNOPqO\nfEFoqCX7DzPjNitjz5vfIxMFL2wCtl2w74Yk648CgYEAjxZ44ZwJio9wUSL5ox0Q\nWw2u6nAF0CzeCzdi7XyMKVDQ5EjLHbO3FGWxrGcEGJDJsCjCP+oaRxZywmM5JzVj\n7wazEiIC0HghuQmnBquFsc2iGNV/hOzSHpXAmJlUrYYpjPbFgRWL0OuO7PAN7LSr\nvFmxBGJMGvhbZrd33r08EVA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ly5m2@familyconnect-adf88.iam.gserviceaccount.com",
+  "client_id": "109171546580315105027",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ly5m2%40familyconnect-adf88.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
